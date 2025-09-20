@@ -48,7 +48,7 @@ from low to high levels in the dependency graph)
 
 * [`linera-rpc`](https://linera-io.github.io/linera-protocol/linera_rpc/index.html)
   Defines the data-type for RPC messages (currently all client &#x2194; proxy &#x2194;
-  chain &#x2194; chain interactions), and track the corresponding data schemas.
+  chain &#x2194; chain interactions), and tracks the corresponding data schemas.
 
 * [`linera-client`](https://linera-io.github.io/linera-protocol/linera_client/index.html)
   Library for writing Linera clients.  Used for the command-line
